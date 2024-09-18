@@ -13,9 +13,7 @@ public class Sieve {
 		
 		int Nvalue = in.nextInt();
 				
-		int[] numbers = new int[Nvalue + 1];
-	
-		
+		int[] numbers = new int[Nvalue + 1];	
 		
 	for ( int i = 2; i < numbers.length; i++) {
 	
